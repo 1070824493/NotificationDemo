@@ -24,6 +24,8 @@
     
     
     //测试pull requests
+    
+    //测试pull requests
     if (launchOptions) {
         UILocalNotification *localNotification = [launchOptions objectForKey:UIApplicationLaunchOptionsLocalNotificationKey];
         NSDictionary *remoteNotification = [launchOptions objectForKey:UIApplicationLaunchOptionsRemoteNotificationKey];
